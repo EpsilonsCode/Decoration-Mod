@@ -20,6 +20,12 @@
   "entrypoints": {
     "main": [
       "net.fabricmc.example.ExampleMod"
+    ],
+    "fabric-datagen": [
+      "net.fabricmc.example.datagen.DataGeneration"
+    ],
+    "client": [
+      "net.fabricmc.example.Client"
     ]
   },
   "mixins": [

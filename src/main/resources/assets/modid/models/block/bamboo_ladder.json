@@ -1,0 +1,6 @@
+{
+  "parent": "modid:block/ladder",
+  "textures": {
+    "all": "modid:block/bamboo_ladder"
+  }
+}
